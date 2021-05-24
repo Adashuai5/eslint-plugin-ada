@@ -1,6 +1,6 @@
 # eslint-plugin-ada
 
-命名规范插件
+Naming rules plugin
 
 ## Installation
 
@@ -22,8 +22,7 @@ Add `ada` to the plugins section of your `.eslintrc` configuration file. You can
 
 ```
 module.exports = {
-  extends: [ 'plugin:ada/recommended' ] // 继承插件导出的配置
-}
+  extends: [ 'plugin:ada/recommended' ]
 ```
 
 or

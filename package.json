@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-ada",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Naming rules plugin",
   "keywords": [
     "eslint",
